@@ -2460,3 +2460,6 @@ ul.side-bar-nav-link li a:hover, ul.side-bar-nav-linkul li a:focus, .ul.side-bar
 .person-details-row ul {
     list-style-type:disc;
 }
+.font-size-appropriate{
+    font-size:1.5rem !important;
+}
