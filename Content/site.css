@@ -341,9 +341,13 @@ section.py-3{
 }
 
 .contact .top-text {
-    color: #009644;
+    color: #333;
     font-size: 1.3rem;
     letter-spacing: normal;
+}
+
+.site-black-color {
+    color:#333 !important;
 }
 
 .capitalize-caps {
