@@ -2392,7 +2392,7 @@ ol.hbreadcrumb {
     color: #9d9fa2;
 }
 
-.body-content ul {
+.body-content ul, ol {
     margin-left: 15px;
     margin-bottom: 10px;
 }
@@ -2412,6 +2412,22 @@ ol.hbreadcrumb {
 }
 .body-content h4,h3{
     text-transform:none !important;
+}
+
+.body-content .panel-default {
+    border-color: #fff;
+}
+
+.body-content .panel-default > .panel-heading {
+        background-color: rgba(0, 150, 68,.05);
+        border-color: #ddd;
+
+}
+
+
+.curriculum-ol-list {
+    list-style-position: inside;
+    padding: 0 0 0 15px;
 }
 
 
@@ -2467,3 +2483,4 @@ ul.side-bar-nav-link li a:hover, ul.side-bar-nav-linkul li a:focus, .ul.side-bar
 .font-size-appropriate{
     font-size:1.5rem !important;
 }
+
