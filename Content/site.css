@@ -2168,7 +2168,8 @@ text-decoration:none;
 }
 
 .panel.dark.package .panel-body p.lead {
-    font-size:16px;
+    font-size: 1.2rem;
+    line-height: 2.0;
 }
 
 .panel.dark.package .panel-body p.lead br{
