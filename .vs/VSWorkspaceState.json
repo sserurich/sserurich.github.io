@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Content",
+    "\\Content\\font-awesome\\css"
   ],
-  "SelectedNode": "\\general-information.html",
+  "SelectedNode": "\\404.html",
   "PreviewInSolutionExplorer": false
 }

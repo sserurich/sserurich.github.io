@@ -470,12 +470,12 @@ address{
     text-transform: uppercase;
     font-weight: 900 !important;
 }
-    .fitness-bg-1{
+    .cs-bg-1{
   background:linear-gradient(
       rgba(49, 50, 52, 0.8), 
       rgba(49, 50, 52, 0.8)
     ),
-       url(/Content/Images/fitness-group.png);
+       url(/Content/Images/cs-group.png);
   background-size:cover;
   background-repeat:no-repeat;
     }
@@ -578,7 +578,7 @@ address{
     text-transform:capitalize;
     font-weight:normal;
 }
-.fitness-classes{ 
+.cs-classes{ 
        background-image: -moz-linear-gradient(rgba(49, 50, 52, 0.8),rgba(49, 50, 52, 0.8)), url(/Content/Images/fitnesslady.jpg);
        background-image: -webkit-linear-gradient(rgba(49, 50, 52, 0.8),rgba(49, 50, 52, 0.8)), url(/Content/Images/fitnesslady.jpg);
        background-image: linear-gradient(rgba(49, 50, 52, 0.8),rgba(49, 50, 52, 0.8)), url(/Content/Images/fitnesslady.jpg);
@@ -590,7 +590,7 @@ address{
        background-size: cover;     
     }
 
-.fitness-One-2-One {
+.cs-One-2-One {
     background-image: -moz-linear-gradient(rgba(49, 50, 52, 0.8), rgba(49, 50, 52, 0.8)),url(/Content/Images/cs-images/home-banner.jpg);
     background-image: -webkit-linear-gradient(rgba(49, 50, 52, 0.8),rgba(49, 50, 52, 0.8)), url(/Content/Images/cs-images/home-banner.jpg);
     background-image: linear-gradient(rgba(49, 50, 52, 0.8),rgba(49, 50, 52, 0.8)), url(/Content/Images/cs-images/home-banner.jpg);
@@ -1469,7 +1469,7 @@ button.close.btn-info-trainer {
   .modal-fullscreen .modal-dialog {
     width: 970px;
   }
-  .fitness-One-2-One,.fitness-magazine,.fitness-trainer,.transformation-clients{
+  .cs-One-2-One,.cs-magazine,.cs-trainer,.transformation-clients{
     padding-top:70px;
 }
 }
@@ -1718,7 +1718,7 @@ html {
     margin:0;
 }
 
-.fitness-classes .btn-danger{
+.cs-classes .btn-danger{
     border-bottom-left-radius:0px;
     border-top-left-radius:0px;
 }
@@ -1730,12 +1730,12 @@ html {
 
 
 
-.fitness-classes .classes .btn{
+.cs-classes .classes .btn{
                 border-bottom-left-radius:0px;
                 border-top-left-radius:0px;
 }
 
-.fitness-classes .classes .btn{
+.cs-classes .classes .btn{
                 border-bottom-left-radius:0px;
                 border-top-left-radius:0px;
                     padding: 15px 12px;
