@@ -352,8 +352,9 @@ section#intro h1  {
 	font-weight:700;
 }
 section#intro h2  {
-	color:#ddd;
+	color:#fff;
 	font-size:24px;
+	font-weight:700;
 }
 
 /* === slogan === */
@@ -1319,7 +1320,7 @@ img.pull-left{
 
 
 	.section {
-		padding:180px 0 40px 0;
+		/*padding:180px 0 40px 0;*/
 	}
 
 	ul.filter li {
